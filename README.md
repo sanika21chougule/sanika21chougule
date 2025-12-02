@@ -38,11 +38,6 @@
          width="40" height="40" alt="c"/>
   </a>
 
-  <!-- Embedded C (same icon as C) -->
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-         width="40" height="40" alt="embedded-c"/>
-  </a>
 
   <!-- Cadence -->
   <a href="https://www.cadence.com/" target="_blank">
