@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops Tools**
 
-- 💬 Ask me about **Networking protocols, GenAI**
+- 💬 Ask me about **Embedded Systems, VLSI**
 
 - 📫 How to reach me **sanikachougule853@gmail.com**
 
