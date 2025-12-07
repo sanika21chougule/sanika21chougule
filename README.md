@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanika Chougule</h1>
+<h1 align="center">Hello 👋, Sanika's here!</h1>
 <h3 align="center">In the language of logic gates, I write the poetry of hardware.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika21chougule&label=Profile%20views&color=0e75b6&style=flat" alt="sanika21chougule" /> </p>
