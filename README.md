@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Devops Tools**
+- 🌱 I’m currently learning **Embedded LInux and Shell Scripting**
 
 - 💬 Ask me about **Embedded Systems, VLSI**
 
