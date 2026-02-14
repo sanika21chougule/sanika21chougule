@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika21chougule&label=Profile%20views&color=0e75b6&style=flat" alt="sanika21chougule" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanika21chougule" alt="sanika21chougule" /></a> </p>
+
 
 
 
@@ -39,11 +39,7 @@
   </a>
 
 
-  <!-- Cadence -->
-  <a href="https://www.cadence.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cadence.svg"
-         width="40" height="40" alt="cadence"/>
-  </a>
+
 
   <!-- LTSpice -->
   <a href="https://www.analog.com/ltspice" target="_blank">
